@@ -1,5 +1,5 @@
 
-# Capitulo 3: ¿Qué es el proceso de revisión de código?
+# Capitulo 3: Revision de codigo basica
 
 ## Objetivo
 

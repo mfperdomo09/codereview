@@ -3,11 +3,7 @@
 
 ## Objetivo
 
-* Bajar un repositorio remoto
-* Subir repositorio remoto a su cuenta de github
-* Crear pull requests
-* Revisar codigo segun los estandares definido y comentar de ser necesario
-* Aprobar pull request si se cumple con los estandares definidos
+* Conocer como se hace la revision de codigo usando las herramientas basicas
 
 ## Repositorio
 

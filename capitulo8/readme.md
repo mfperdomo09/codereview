@@ -1,5 +1,5 @@
 
-# Capitulo 8: Simulacion complete de revision de codigo
+# Capitulo 8: Simulacion completa de revision de codigo
 
 ## Objetivo
 

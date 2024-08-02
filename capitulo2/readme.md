@@ -1,12 +1,9 @@
 
-# Capitulo 2: Github Desktop
+# Capitulo 2: Repositorio remoto con Github Desktop
 
 ## Objetivo
 
-* Tomar el repositorio creado en local y subirlo al repositorio remoto en github con ayuda de Github Desktop
-* Agregar un reame.md y gitignore en una nueva rama
-* Crear rama y hacer pull request
-* Agregar colaboradores al repositorio
+* Tomar el repositorio creado en local y subirlo al repositorio remoto en github con ayuda de Github Desktop y gestionarlo
 
 
 ## Instrucciones

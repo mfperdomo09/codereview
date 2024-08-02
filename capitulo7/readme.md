@@ -3,9 +3,7 @@
 
 ## Objetivo
 
-* Crear un regla que proteja nuestra rama principal, en la cual sea necesario: revisar el codigo, resolver comentarios para poder hacer el merge.
-
-* Agregar colaboradores a nuestro, con un compañero nos daremos permisos a el repositorio, por lo que nuestro compañero tendra acceso a nuestro repositorio y nosotros al de nuestro compañero
+* Configurar el repositorio para que nuestra rama principal este protegida y poder invitar colaboradores
 
 
 ## Instrucciones

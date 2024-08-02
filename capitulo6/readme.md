@@ -105,7 +105,7 @@ De esta foma vemos que concuerda con la ruta que establecimos en el controlador 
 
 ![Logo](../images/cap6/22.png)
 
-16. Ahora desde el navegador recargamos la pagina y vemos que nos carha el listado de usuarios registrados
+16. Ahora desde el navegador recargamos la pagina y vemos que nos carga el listado de usuarios registrados
 
 ![Logo](../images/cap6/23.png)
 

@@ -1,5 +1,5 @@
 
-# Capitulo 1: GIT
+# Capitulo 1: GIT repositorio
 
 ## Objetivo
 
