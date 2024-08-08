@@ -5,6 +5,8 @@
 
 * Identificar en el codigo problemas o errores de acuerdo a los estandares establecidos a seguir
 
+## Tiempo Aproximado: 25 mins
+
 ## Repositorio
 
 [Netec cap3](https://github.com/mfperdomo09/netec-cap3.git)

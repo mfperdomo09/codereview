@@ -5,6 +5,8 @@
 
 * Conocer como se hace la revision de codigo usando las herramientas basicas
 
+## Tiempo Aproximado: 25 mins
+
 ## Repositorio
 
 [Netec cap5](https://github.com/mfperdomo09/netec-cap5.git)   
@@ -16,6 +18,8 @@
 ![Logo](../images/cap5/21.png)
 
 Copiamos la url del repositorio
+
+        git clone <url repositorio>
 
 ![Logo](../images/cap5/1.png)
 
@@ -37,13 +41,20 @@ Cambiamos entre ramas para que se guarden en el local
 
 3. Ahora vamos a remover el enlace remoto de este repositorio de la cuenta que se bajo, esto con el fin de que lo podamos subir a nuestra cuenta
 
+        git branch
+
 ![Logo](../images/cap5/5.png)
 
 Primero usamos el comando "git branch" para verificacar que las ramas ya se cargan desde el local
 
+        git remote -v
+        git remote remove origin
+
 ![Logo](../images/cap5/6.png)
 
 Luego usamos el comando "git remote -v" para verificar el nombre de la conexion con la otra cuenta en este caso origin, despues "git remote remove origin" para quitar la conexion
+
+        git branch
 
 ![Logo](../images/cap5/7.png)
 

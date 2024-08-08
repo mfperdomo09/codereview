@@ -5,6 +5,7 @@
 
 * Configurar el repositorio para que nuestra rama principal este protegida y poder invitar colaboradores
 
+## Tiempo Aproximado: 20 mins
 
 ## Instrucciones
 
@@ -25,6 +26,8 @@ Buscamos el nombre de usuario github de nuestro compañero, lo seleccionamos y a
 A nuestro compañero le llegara una email al correo de su cuenta de github el cual debera aceptar para poder ingresar al repo
 
 2. Nuestro compañero clonara el repositorio en su maquina y lo agregara en github desktop
+
+        git clone <url repositorio>
 
 ![Logo](../images/cap5/1.png)
 

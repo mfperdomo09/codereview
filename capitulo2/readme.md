@@ -5,6 +5,7 @@
 
 * Tomar el repositorio creado en local y subirlo al repositorio remoto en github con ayuda de Github Desktop y gestionarlo
 
+## Tiempo Aproximado: 20 mins
 
 ## Instrucciones
 
@@ -46,6 +47,35 @@ Aqui si no hemos iniciado sesion, nos pedira que lo hagamos, finalmente damos a 
 
 8. Desde github desktop crearemos una rama donde agregaremos primero el readme.md, despues en un nuevo commit el .gitignore donde crearemos un .env
 
+## .env
+```
+    ## Run Locally
+
+    Clone the project
+
+    ```bash
+    git clone https://link-to-project
+    ```
+
+    Go to the project directory
+
+    ```bash
+    cd my-project
+    ```
+
+    Install dependencies
+
+    ```bash
+    npm install
+    ```
+
+    Start the server
+
+    ```bash
+    npm run start
+    ```
+```
+
 ![Logo](../images/cap2/10.png)
 
 Creamo el archivo readme y agregamos el contenido que deseemos
@@ -53,6 +83,12 @@ Creamo el archivo readme y agregamos el contenido que deseemos
 ![Logo](../images/cap2/11.png)
 
 Hacemos commit del archivo agregado y hacemos click en "Commit to main"
+
+## .gitingore
+
+```
+    .env
+```
 
 ![Logo](../images/cap2/12.png)
 
@@ -77,6 +113,33 @@ De esta forma si revisamos el repositorio remoto notaremos que el readme y gitig
 Establcemos el nombre a la rama
 
 11. Haremos nuevos cambios al archivo html y haremos commit de estos
+
+```
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Usando Git</h1>
+
+        <br>
+
+        <h2>Tecnologias</h2>
+
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>PHP</li>
+        </ul>
+
+        <h2>Otro cambio desde la rama creada con github desktop</h2>
+    </body>
+</html>
+```
 
 ![Logo](../images/cap2/18.png)
 

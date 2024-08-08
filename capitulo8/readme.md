@@ -5,6 +5,7 @@
 
 * Simular el proceso completo de creacion de repositorio, configuracion y aprobacion de pull request
 
+## Tiempo Aproximado: 40 mins
 
 ## Instrucciones
 
